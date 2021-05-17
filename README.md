@@ -2,7 +2,7 @@
 
 - 💻 I’m currently work with: 
     - 🌱 Structured Query Language(SQL), 
-    - 📟  Used computer programs are: Microsoft Excel, BigBlueButton, Microsoft Azure Data Studio, tibros, Crystal Reports  
+    - 📟  Used computer programs are: Microsoft SQL Management Studio, Microsoft Excel, BigBlueButton, Microsoft Azure Data Studio, tibros, Crystal Reports  
 
 - 💞️ I’m also interested in HTML, CSS, JavaScript, C++, Java, Vue.js, Laravel
 
