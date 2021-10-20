@@ -6,4 +6,4 @@
 
 - 💞️ I’m also interested in HTML, CSS, JavaScript, C++, Java, Vue.js, Laravel
 
-- 📫 You can feel free and contact me on IG: @azadchicago
+- 📫 You can feel free and contact me on azat.erol@informatik.hs-fulda.de
