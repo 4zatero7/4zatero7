@@ -1,5 +1,7 @@
 ## Azat Erol
 
+![Header](https://media.licdn.com/dms/image/v2/D4E16AQFqFg1pvQRLtQ/profile-displaybackgroundimage-shrink_350_1400/B4EZWpZ48oHMAY-/0/1742303892185?e=1747872000&v=beta&t=osQOk02nfLmEK-hkTIFTP9Um18u8RWDjnhEG99H6h0k)
+
 ## 👩‍💻 Über mich
 Ich bin ein erfahrener Power BI Entwickler und zertifizierter Data Analyst mit über fünf Jahren Berufserfahrung in verschiedenen Branchen.<br><br>🎓 Mein akademischer Hintergrund in Informatik hat mir eine solide Basis in Datenverarbeitung und -analyse verschafft. Diese Kenntnisse habe ich durch das erfolgreiche Absolvieren des PL-300 Zertifikats **"Microsoft Certified: Power BI Data Analyst Associate"** weiter vertieft.<br><br>✅ Als zertifizierter Power BI Entwickler bin ich darauf spezialisiert, komplexe Daten in aussagekräftige und visuell ansprechende Berichte und Dashboards zu verwandeln. Meine Expertise ermöglicht es mir, datengetriebene Lösungen zu entwickeln, die den spezifischen Anforderungen und Zielen jedes Unternehmens gerecht werden.<br><br>💼 In meiner beruflichen Laufbahn habe ich in verschiedenen Unternehmensbranchen gearbeitet und dabei wertvolle Erfahrungen gesammelt. Diese Vielseitigkeit erlaubt es mir, maßgeschneiderte Lösungen zu bieten, die auf die individuellen Bedürfnisse abgestimmt sind.
 
