@@ -19,6 +19,10 @@ Ich bin ein erfahrener Power BI Entwickler und zertifizierter Data Analyst mit �
 👉 <a href="https://github.com/4zatero7/Finanz_Analyse/blob/main/README.md">Finanz Analyse</a><br>
 👉 <a href="https://github.com/4zatero7/Debitor_Analyse/blob/main/README.md">Debitor Analyse</a><br>
 👉 <a href="https://github.com/4zatero7/Land_Analyse/blob/main/README.md">Land Analyse</a><br>
+👉 <a href="https://github.com/4zatero7/HR_Analyse/blob/main/README.md">HR Analyse</a><br>
+👉 <a href="https://github.com/4zatero7/laden_analyse/blob/main/README.md">Laden Analyse</a><br>
+
+
 
 #### SQL
 #### Python
